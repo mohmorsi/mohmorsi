@@ -2,8 +2,13 @@
 
 <p align="center">
 <h3 align="center"> 
+ 
 I'm an Information Technology Graduate 🎓 from Canada 🇨🇦
 </h3>
+<h3 align="center"> 
+ 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohmorsi)
+ </h3>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## What I always play with
@@ -45,7 +50,7 @@ I'm an Information Technology Graduate 🎓 from Canada 🇨🇦
   def initialize
     @name = 'Mohamed Morsi'
     @age = 26
-    @education = [ 'York University', 'HBX/HBS' 'SABIS' ]
+    @education = [ 'York University', 'HBX/HBS', 'SABIS' ]
     @hobbies = [ 'Longboarding', 'Rowing', 'Swimming', 'Pizza' ]
   end
 
