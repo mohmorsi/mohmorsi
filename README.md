@@ -9,8 +9,9 @@ I'm an Information Technology Graduate 🎓 from Canada 🇨🇦
  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohmorsi)
  </h3>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
+ 
+ <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+ 
 ## What I always play with
 <img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Raspberry Pi" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
