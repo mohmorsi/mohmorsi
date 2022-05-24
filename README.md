@@ -7,11 +7,14 @@ I'm an Information Technology Graduate 🎓 from Canada 🇨🇦
 </h3>
 <h3 align="center"> 
  
+<div align="right">
+  
+![Github Logo](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+</div>
+ 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohmorsi)
  </h3>
- 
- <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
- 
+
 ## What I always play with
 <img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Raspberry Pi" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
@@ -31,6 +34,8 @@ I'm an Information Technology Graduate 🎓 from Canada 🇨🇦
 <img align="left" alt="Kubernetes" width="26px" src="https://github.com/skrewthisman/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" /> 
 <img align="left" alt="Xcode" width="26px" src="https://github.com/skrewthisman/devicon/blob/master/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
 <br />
+
+
 
 ## Languages
 <img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />
