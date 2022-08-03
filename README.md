@@ -61,7 +61,7 @@ I'm an Information Technology Graduate 🎓 from Canada 🇨🇦
   end
 
   def current_location
-    'Ontario, Canada'
+    'Alberta, Canada'
   end
 
   def currently
