@@ -7,10 +7,12 @@ I'm a Data Analyst 👨🏾‍💻 from Canada 🇨🇦
 </h3>
 <h3 align="center"> 
  
-<div align="right">
+<div align="rightt">
   
 ![Github Logo](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" style="width:50%; height:50%">
 </div>
+ 
  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohmorsi)
  </h3>
