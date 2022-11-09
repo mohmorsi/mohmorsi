@@ -3,7 +3,7 @@
 <p align="center">
 <h3 align="center"> 
  
-I'm a Data Analyst 👨🏾‍💻 from Canada 🇨🇦
+I'm a IT graduate 💻 from Canada 🇨🇦
 </h3>
 <h3 align="center"> 
  
