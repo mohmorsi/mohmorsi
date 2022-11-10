@@ -30,7 +30,7 @@ I'm a IT graduate 💻 from Canada 🇨🇦
 ## What I sometimes play with
 <img align="left" alt="Django" width="35px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="ReactJS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"style="padding-right:10px;" /> 
-<img align="left" alt="AWS" width="40px" src="https://github.com/skrewthisman/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rails" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rails/rails-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Kubernetes" width="26px" src="https://github.com/skrewthisman/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" /> 
 <img align="left" alt="Xcode" width="26px" src="https://github.com/skrewthisman/devicon/blob/master/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
