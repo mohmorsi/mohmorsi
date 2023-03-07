@@ -53,25 +53,31 @@ I'm a IT graduate 💻 from Canada 🇨🇦
 <h3> How I define myself..literally</h3>
 
  ```ruby
- class Mohamed < Person
+ # Defining a class named Mohamed that inherits from the Person class
+class Mohamed < Person
+  # Defining the constructor for the class
   def initialize
+    # Initializing instance variables for name, age, education, and hobbies
     @name = 'Mohamed Morsi'
     @age = 26
     @education = [ 'York University', 'HBX/HBS', 'SABIS' ]
     @hobbies = [ 'Longboarding', 'Rowing', 'Swimming', 'Pizza' ]
   end
 
+  # Defining a method to return the current location
   def current_location
-    'Alberta, Canada'
+    'Ontario, Canada'
   end
 
+  # Defining a method to return the current activities
   def currently
     {
       reading: [ 'Eloquent Ruby', 'Normal People' ],
       tinkering: [ 'Raspberry Pi', 'Bash' ]
-     }
+    }
   end
 end
+
  
  ```
  
