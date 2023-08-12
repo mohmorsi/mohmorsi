@@ -60,7 +60,7 @@ class Mohamed < Person
     # Initializing instance variables for name, age, education, and hobbies
     @name = 'Mohamed Morsi'
     @age = 26
-    @education = [ 'York University', 'HBX/HBS', 'SABIS' ]
+    @education = [ 'Royal Roads University', 'York University', 'HBX/HBS', 'SABIS' ]
     @hobbies = [ 'Longboarding', 'Rowing', 'Swimming', 'Pizza' ]
   end
 
